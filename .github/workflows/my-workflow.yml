@@ -1,9 +1,10 @@
 name: Pull request
 
 on:
+  push:
   pull_request:
     paths:
-    - 'actions/containers/screens/store'
+    - 'containers/screens/store/**'
     branches:
     - main
 
