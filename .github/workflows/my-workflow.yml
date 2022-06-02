@@ -3,7 +3,7 @@ name: Pull request
 on:
   pull_request:
     paths:
-    - 'actions/new.js'
+    - 'new.js'
     branches:
     - main
 
