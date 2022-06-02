@@ -3,7 +3,7 @@ name: Pull request
 on:
   pull_request:
     paths:
-    - 'store/**'
+    - 'containers/screens/store/**'
     branches:
     - main
 
