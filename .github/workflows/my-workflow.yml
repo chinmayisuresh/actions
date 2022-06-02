@@ -3,7 +3,7 @@ name: Pull request
 on:
   pull_request:
     paths:
-    - 'helloworld.js'
+    - 'new.js'
     branches:
     - main
 
