@@ -9,3 +9,4 @@ console.log('hello');
 console.log('');
 console.log('now');
 console.log('now');
+console.log('now');
