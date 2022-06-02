@@ -7,3 +7,4 @@ console.log('hello i am data structures');
 console.log('i am stared');
 console.log('hello');
 console.log('');
+console.log('now');
