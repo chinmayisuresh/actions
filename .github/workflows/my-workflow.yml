@@ -2,7 +2,7 @@ name: Pull request
 
 on:
   pull_request:
-    paths:
+    paths-ignore:
     - 'new.js'
     branches:
     - main
